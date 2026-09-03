@@ -1,0 +1,122 @@
+[
+  {
+    "id": "doc_001",
+    "text": "Claim: Drinking hot water with lemon every morning cures COVID-19 infections. Fact-check finding: There is no clinical evidence that hot water or lemon can cure or prevent COVID-19. Health authorities recommend vaccination and standard medical care instead.",
+    "metadata": {
+      "source_id": "src_healthdesk_01",
+      "source_name": "HealthDesk Fact Check (synthetic)",
+      "reliability_tag": "high",
+      "language": "en",
+      "verdict": "false",
+      "topic": "health"
+    }
+  },
+  {
+    "id": "doc_002",
+    "text": "दावा: सुबह गर्म पानी और नींबू पीने से कोरोना वायरस ठीक हो जाता है। तथ्य जांच: इस बात का कोई चिकित्सीय प्रमाण नहीं है कि गर्म पानी या नींबू कोविड-19 को ठीक कर सकते हैं। स्वास्थ्य विशेषज्ञ टीकाकरण और मानक चिकित्सा देखभाल की सलाह देते हैं।",
+    "metadata": {
+      "source_id": "src_healthdesk_01",
+      "source_name": "HealthDesk Fact Check (synthetic)",
+      "reliability_tag": "high",
+      "language": "hi",
+      "verdict": "false",
+      "topic": "health"
+    }
+  },
+  {
+    "id": "doc_003",
+    "text": "దావా: ఉదయం వేడి నీరు మరియు నిమ్మకాయ తాగడం వల్ల కోవిడ్-19 నయమవుతుంది. వాస్తవ పరిశీలన: వేడి నీరు లేదా నిమ్మకాయ కోవిడ్-19ను నయం చేస్తుందనడానికి ఎలాంటి వైద్య ఆధారాలు లేవు. టీకా వేయించుకోవడం మరియు ప్రామాణిక వైద్య చికిత్స తీసుకోవడం మంచిది.",
+    "metadata": {
+      "source_id": "src_healthdesk_01",
+      "source_name": "HealthDesk Fact Check (synthetic)",
+      "reliability_tag": "high",
+      "language": "te",
+      "verdict": "false",
+      "topic": "health"
+    }
+  },
+  {
+    "id": "doc_004",
+    "text": "Claim: The Reserve Bank of India banned all Rs 500 notes overnight in March 2023. Fact-check finding: No such ban occurred in 2023. India's demonetization of Rs 500 and Rs 1000 notes took place in November 2016. No comparable overnight ban happened in 2023.",
+    "metadata": {
+      "source_id": "src_econcheck_02",
+      "source_name": "EconCheck India (synthetic)",
+      "reliability_tag": "high",
+      "language": "en",
+      "verdict": "false",
+      "topic": "economy"
+    }
+  },
+  {
+    "id": "doc_005",
+    "text": "दावा: मार्च 2023 में भारतीय रिज़र्व बैंक ने रातों-रात सभी 500 रुपये के नोट बंद कर दिए। तथ्य जांच: 2023 में ऐसा कोई प्रतिबंध नहीं लगाया गया। 500 और 1000 रुपये के नोटों का विमुद्रीकरण नवंबर 2016 में हुआ था।",
+    "metadata": {
+      "source_id": "src_econcheck_02",
+      "source_name": "EconCheck India (synthetic)",
+      "reliability_tag": "high",
+      "language": "hi",
+      "verdict": "false",
+      "topic": "economy"
+    }
+  },
+  {
+    "id": "doc_006",
+    "text": "Claim: A new state law requires all vehicles to be replaced every 5 years regardless of condition. Fact-check finding: No such nationwide or state law exists. Vehicle scrappage policies in India apply age-based fitness testing, not mandatory replacement at a fixed interval, and vary by vehicle category.",
+    "metadata": {
+      "source_id": "src_policywatch_03",
+      "source_name": "PolicyWatch (synthetic)",
+      "reliability_tag": "medium",
+      "language": "en",
+      "verdict": "misleading",
+      "topic": "policy"
+    }
+  },
+  {
+    "id": "doc_007",
+    "text": "Claim: Eating raw garlic on an empty stomach permanently cures high blood pressure without medication. Fact-check finding: Some small studies suggest garlic may modestly lower blood pressure, but no evidence supports it as a permanent cure or a substitute for prescribed medication. Patients are advised not to stop medication without consulting a doctor.",
+    "metadata": {
+      "source_id": "src_healthdesk_01",
+      "source_name": "HealthDesk Fact Check (synthetic)",
+      "reliability_tag": "high",
+      "language": "en",
+      "verdict": "misleading",
+      "topic": "health"
+    }
+  },
+  {
+    "id": "doc_008",
+    "text": "దావా: రోజూ ఖాళీ కడుపుతో పచ్చి వెల్లుల్లి తినడం వల్ల మందులు లేకుండా రక్తపోటు శాశ్వతంగా తగ్గుతుంది. వాస్తవ పరిశీలన: వెల్లుల్లి రక్తపోటును కొంతమేర తగ్గించవచ్చని కొన్ని చిన్న అధ్యయనాలు సూచిస్తున్నా, ఇది శాశ్వత చికిత్స అని కానీ మందులకు ప్రత్యామ్నాయమని కానీ ఆధారాలు లేవు.",
+    "metadata": {
+      "source_id": "src_healthdesk_01",
+      "source_name": "HealthDesk Fact Check (synthetic)",
+      "reliability_tag": "high",
+      "language": "te",
+      "verdict": "misleading",
+      "topic": "health"
+    }
+  },
+  {
+    "id": "doc_009",
+    "text": "Claim: A viral video shows a bridge collapsing in Mumbai this week. Fact-check finding: Reverse image search traces the video to a 2019 bridge collapse in a different country. No bridge collapse matching the video occurred in Mumbai this week.",
+    "metadata": {
+      "source_id": "src_viralcheck_04",
+      "source_name": "ViralCheck (synthetic)",
+      "reliability_tag": "medium",
+      "language": "en",
+      "verdict": "false",
+      "topic": "viral_media"
+    }
+  },
+  {
+    "id": "doc_010",
+    "text": "Claim: An anonymous blog post claims a popular soft drink brand contains banned preservatives in India. Fact-check finding: The blog cites no lab report or regulatory source. India's food safety regulator (FSSAI) has not issued any recall or advisory against the brand for this reason as of the fact-check date. Claim rated unverified pending a credible source.",
+    "metadata": {
+      "source_id": "src_lowqualityblog_05",
+      "source_name": "RandomTipsBlog (synthetic, low quality)",
+      "reliability_tag": "low",
+      "language": "en",
+      "verdict": "unverified",
+      "topic": "food_safety"
+    }
+  }
+]
